@@ -1,0 +1,25 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 960px;
+    height: 960px;
+
+    border: solid;
+    border-width: 1px;
+}
+
+.square {
+    background-color: white;
+}
+
+button {
+    margin-bottom: 15px;
+}
+
+.content {
+    max-width: 960px;
+    margin: auto;
+    padding: 70px 0;
+    text-align: center;
+}
